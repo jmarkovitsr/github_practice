@@ -2,7 +2,12 @@
 
 Some important terminology...
 
+- repo: 
 - commit: 
-- pull request: 
 - push: 
 - pull: 
+- pull request: 
+- fetch: 
+- fork: 
+- clone: 
+- issue: 
