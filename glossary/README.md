@@ -6,7 +6,7 @@ Some important terminology...
 - commit: 
 - push: 
 - pull: 
-- pull request: 
+- pull request: pedir una solicitud
 - fetch: 
 - fork: 
 - clone: 
