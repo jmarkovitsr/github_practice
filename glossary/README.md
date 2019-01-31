@@ -3,7 +3,7 @@
 Some important terminology...
 
 - repo: 
-- commit: 
+- commit: "save changes"
 - push: 
 - pull: 
 - pull request: 
