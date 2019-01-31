@@ -2,6 +2,8 @@
 
 Some important terminology...
 
+- repo: 
+- commit: "save changes"
 - repo: a repository to store projects (private or public)
 - commit: 
 - push: 
