@@ -2,7 +2,7 @@
 
 Some important terminology...
 
-- repo: 
+- repo: a repository to store projects (private or public)
 - commit: 
 - push: 
 - pull: 
