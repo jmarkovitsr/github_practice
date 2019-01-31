@@ -4,7 +4,7 @@ Some important terminology...
 
 - repo: 
 - commit: 
-- push: 
+- push: Hello.
 - pull: 
 - pull request: 
 - fetch: 
