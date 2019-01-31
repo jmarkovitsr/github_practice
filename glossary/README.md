@@ -9,6 +9,10 @@ Some important terminology...
 - push: Hello.
 - pull: 
 - pull request: 
+- fetch: 
+- fork: copy
+- clone: 
+- issue: 
 - fetch: download data from a remote repository
 - fork: 
 - clone: copying a repo on the cloud to your computer (local)
