@@ -3,11 +3,13 @@
 Some important terminology...
 
 - repo: 
+- commit: "save changes"
+- repo: a repository to store projects (private or public)
 - commit: 
 - push: Hello.
 - pull: 
 - pull request: 
-- fetch: 
+- fetch: download data from a remote repository
 - fork: 
 - clone: 
-- issue: 
+- issue: i have issues
