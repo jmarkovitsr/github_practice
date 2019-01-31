@@ -11,5 +11,5 @@ Some important terminology...
 - pull request: 
 - fetch: download data from a remote repository
 - fork: 
-- clone: 
+- clone: copying a repo on the cloud to your computer (local)
 - issue: i have issues
