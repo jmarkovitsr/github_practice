@@ -2,12 +2,12 @@
 
 Some important terminology...
 
-- repo: 
+- repo: a repository to store projects (private or public)
 - commit: 
 - push: 
 - pull: 
 - pull request: 
-- fetch: 
+- fetch: download data from a remote repository
 - fork: 
 - clone: 
 - issue: i have issues
