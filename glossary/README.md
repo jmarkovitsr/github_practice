@@ -10,4 +10,4 @@ Some important terminology...
 - fetch: 
 - fork: 
 - clone: 
-- issue: 
+- issue: i have issues
