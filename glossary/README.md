@@ -7,7 +7,7 @@ Some important terminology...
 - push: 
 - pull: 
 - pull request: 
-- fetch: 
+- fetch: download data from a remote repository
 - fork: 
 - clone: 
 - issue: 
