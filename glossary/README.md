@@ -8,6 +8,6 @@ Some important terminology...
 - pull: 
 - pull request: 
 - fetch: 
-- fork: 
+- fork: copy
 - clone: 
 - issue: 
