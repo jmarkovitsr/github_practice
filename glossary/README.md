@@ -5,7 +5,7 @@ Some important terminology...
 - repo: 
 - commit: 
 - push: 
-- pull: 
+- pull: When you fetch changes and merge them
 - pull request: 
 - fetch: 
 - fork: 
