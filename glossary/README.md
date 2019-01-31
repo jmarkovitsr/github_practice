@@ -10,4 +10,4 @@ Some important terminology...
 - fetch: download data from a remote repository
 - fork: 
 - clone: 
-- issue: 
+- issue: i have issues
