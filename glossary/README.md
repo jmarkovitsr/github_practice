@@ -9,5 +9,5 @@ Some important terminology...
 - pull request: 
 - fetch: 
 - fork: 
-- clone: 
+- clone: copying a repo on the cloud to your computer (local)
 - issue: 
